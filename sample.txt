@@ -1,1 +1,1 @@
-Another sample file added without cloning the repository from GitHub.
+Another sample file.
